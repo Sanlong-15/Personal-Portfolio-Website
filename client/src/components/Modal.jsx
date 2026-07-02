@@ -1,5 +1,4 @@
 import { useEffect } from 'react'
-
 /**
  * Accessible modal dialog: closes on Escape or backdrop click,
  * and locks page scrolling while open.
